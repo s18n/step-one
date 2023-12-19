@@ -1,0 +1,8 @@
+top:
+  stuff:
+    - 'thing_three'
+    - 'thing_three'
+  name: 'thrid'
+  description: >
+    hello this is the third one
+  enabled: true
