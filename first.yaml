@@ -1,0 +1,8 @@
+top:
+  stuff:
+    - 'thing_one'
+    - 'thing_two'
+  name: 'first'
+  description: >
+    hello this is the first one
+  enabled: true
