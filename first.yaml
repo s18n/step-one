@@ -2,6 +2,8 @@ top:
   stuff:
     - 'thing_one'
     - 'thing_two'
+    - 'thing_three'
+  depends_on: third
   name: 'first'
   description: >
     hello this is the first one
